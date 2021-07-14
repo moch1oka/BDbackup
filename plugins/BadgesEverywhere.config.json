@@ -1,0 +1,66 @@
+{
+	"badgeCache": {
+		"443561417975791647": {
+			"flags": 128,
+			"premium_since": "2021-06-11T04:20:02.018307+00:00",
+			"date": 1624711689363
+		},
+		"478497313937948683": {
+			"flags": 128,
+			"premium_since": "2021-06-11T03:39:27.414259+00:00",
+			"premium_guild_since": "2021-06-11T03:39:55.534000+00:00",
+			"date": 1624711802219
+		},
+		"591177120575914017": {
+			"flags": 0,
+			"premium_since": "2021-06-11T04:21:06.621044+00:00",
+			"premium_guild_since": "2021-06-11T04:21:40.194000+00:00",
+			"date": 1624711755706
+		},
+		"648892968035418153": {
+			"flags": 0,
+			"premium_since": "2021-06-11T06:18:05.176684+00:00",
+			"premium_guild_since": "2021-06-11T06:18:29.810000+00:00",
+			"date": 1624711687736
+		},
+		"673801072069836820": {
+			"flags": 0,
+			"date": 1624711689038
+		},
+		"683327311331983385": {
+			"flags": 0,
+			"date": 1624711773578
+		},
+		"753074747008352296": {
+			"flags": 0,
+			"premium_since": "2021-06-11T13:32:08.327550+00:00",
+			"premium_guild_since": "2021-06-11T13:32:27.264000+00:00",
+			"date": 1624711690341
+		},
+		"838427240287043595": {
+			"flags": 0,
+			"date": 1624711688064
+		}
+	},
+	"badges": {
+		"STAFF": true,
+		"PARTNER": true,
+		"HYPESQUAD": true,
+		"HYPESQUAD_ONLINE_HOUSE_1": true,
+		"HYPESQUAD_ONLINE_HOUSE_2": true,
+		"HYPESQUAD_ONLINE_HOUSE_3": true,
+		"BUG_HUNTER": true,
+		"EARLY_VERIFIED_DEVELOPER": true,
+		"EARLY_SUPPORTER": true,
+		"CERTIFIED_MODERATOR": true,
+		"PREMIUM": true,
+		"PREMIUM_GUILD_SUBSCRIPTION": true
+	},
+	"indicators": {
+		"CURRENT_GUILD_BOOST": true
+	},
+	"places": {
+		"chat": true,
+		"memberList": true
+	}
+}
