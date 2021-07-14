@@ -1,1 +1,1 @@
-my BetterDiscord plugins and themes, tks
+my BetterDiscord plugins and themes
