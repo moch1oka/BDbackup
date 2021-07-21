@@ -2,16 +2,16 @@
 	"choices": {
 		"received": {
 			"input": "auto",
-			"output": "$discord"
+			"output": "vi"
 		},
 		"sent": {
 			"input": "auto",
-			"output": "$discord"
+			"output": "vi"
 		}
 	},
 	"engines": {
-		"translator": "googleapi",
-		"backup": "----"
+		"backup": "yandex",
+		"translator": "googleapi"
 	},
 	"exceptions": {
 		"wordStart": [

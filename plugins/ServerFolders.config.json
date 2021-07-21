@@ -1,0 +1,45 @@
+{
+	"folders": {
+		"248113882": {
+			"autoRead": false,
+			"color1": null,
+			"color2": [
+				"255",
+				"255",
+				"255"
+			],
+			"color3": null,
+			"color4": null,
+			"copyTooltipColor": false,
+			"iconID": "1",
+			"muteFolder": false,
+			"swapColors": false,
+			"useCloseIcon": true
+		},
+		"1099437631": {
+			"autoRead": false,
+			"color1": null,
+			"color2": [
+				"255",
+				"255",
+				"255"
+			],
+			"color3": null,
+			"color4": null,
+			"copyTooltipColor": false,
+			"iconID": "1",
+			"muteFolder": true,
+			"swapColors": false,
+			"useCloseIcon": true
+		}
+	},
+	"general": {
+		"addSeparators": true,
+		"closeAllFolders": false,
+		"closeOtherFolders": true,
+		"closeTheFolder": true,
+		"extraColumn": true,
+		"forceOpenFolder": false,
+		"showCountBadge": true
+	}
+}
